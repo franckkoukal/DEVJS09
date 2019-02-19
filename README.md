@@ -4,6 +4,9 @@
 
 Yo !!
 
+J'ai bien mang�, j'ai bien bu,...
+
+
 Helga
 
 
@@ -18,3 +21,6 @@ Blah blah blah blaaaaaah. Pouêt.
 
 Et sinon, ?a biche ?
 
+<<<<<<< HEAD
+
+ ohhhhhhhhhh
