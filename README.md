@@ -1,6 +1,6 @@
 # DEVJS09
 
-*Coucou* c'est _Rikku_! :)
+**Coucou** c'est _Rikku_! :)
 
 Yo !!
 
