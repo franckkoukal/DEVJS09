@@ -1,3 +1,7 @@
 # DEVJS09
 
-Et sinon, ça biche ?
+hello homies
+
+Salut les coquines!
+
+Et sinon, ?a biche ?
