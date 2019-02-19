@@ -1,3 +1,9 @@
 # DEVJS09
 
-Kebab ? :D
+hello homies
+
+Salut les coquines!
+
+Et sinon, ?a biche ?
+
+Blah blah blah blaaaaaah. Pouêt.
