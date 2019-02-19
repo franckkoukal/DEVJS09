@@ -3,8 +3,7 @@
 ok ok 
 
 
-
-
+**Coucou** c'est _Rikku_! :)
 
 Yo !!
 
@@ -16,8 +15,6 @@ J'ai bien mang�, j'ai bien bu,...
 
 Helga
 
-
-
 gros tryhard js 
 
 
@@ -26,6 +23,7 @@ Salut les p'tit clous
 hello homies
 
 Salut les coquines!
+
 
 
 
@@ -43,10 +41,14 @@ refs/remotes/origin/master
 
 
 
+<<<<<<< HEAD
 
  ohhhhhhhhhh
 
 
 
 
+>>>>>>> refs/remotes/origin/master
+=======
+ ohhhhhhhhhh
 >>>>>>> refs/remotes/origin/master
