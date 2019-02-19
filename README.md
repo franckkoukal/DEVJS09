@@ -1,7 +1,11 @@
 # DEVJS09
 
 
+
 ![Eddy In England](https://cdn.mos.cms.futurecdn.net/7HBQjAffoqcHSL9mpHxdVP.jpg "Eddy")
+
+Salut les p'tit clous
+
 
 Salut les p'tit clous
 
@@ -9,6 +13,8 @@ Zerg
 hello homies
 
 Salut les coquines!
+
+
 
 **Coucou** c'est _Rikku_! :)
 
@@ -52,6 +58,8 @@ Et sinon, ?a biche ?
 
 
 refs/remotes/origin/master
+
+BOMBOKLAK !!!
 
  ohhhhhhhhhh
 
