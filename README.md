@@ -1,4 +1,7 @@
 # DEVJS09
+ HEAD
+ok ok 
+
 
 Zerg
 hello homies
@@ -35,9 +38,6 @@ Blah blah blah blaaaaaah. Pouêt.
 
 
 Et sinon, ?a biche ?
- ohhhhhhhhhh
 
+refs/remotes/origin/master
 
-
-
- ohhhhhhhhhh
