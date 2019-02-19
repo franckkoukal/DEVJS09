@@ -1,7 +1,14 @@
 # DEVJS09
 
 
+<<<<<<< HEAD
 Salut les p'tit clous
+=======
+Zerg
+hello homies
+
+Salut les coquines!
+>>>>>>> refs/remotes/origin/master
 **Coucou** c'est _Rikku_! :)
 
 Yo !!
@@ -43,6 +50,7 @@ Et sinon, ?a biche ?
 
 
 
+refs/remotes/origin/master
 
  ohhhhhhhhhh
 
