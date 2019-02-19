@@ -1,8 +1,7 @@
 # DEVJS09
- HEAD
-ok ok 
 
 
+Salut les p'tit clous
 Zerg
 hello homies
 
@@ -28,6 +27,7 @@ hello homies
 
 Salut les coquines!
 
+Et sinon, ?a biche ?
 
 
 
@@ -39,6 +39,23 @@ Blah blah blah blaaaaaah. Pouêt.
 
 Et sinon, ?a biche ?
 
+
+
+
+
+ ohhhhhhhhhh
+
+
+
 refs/remotes/origin/master
 
 BOMBOKLAK !!!
+
+ ohhhhhhhhhh
+
+
+
+
+
+
+# L'art du développement en équipe.
