@@ -1,14 +1,15 @@
 # DEVJS09
 
 
-<<<<<<< HEAD
+![Eddy In England](https://cdn.mos.cms.futurecdn.net/7HBQjAffoqcHSL9mpHxdVP.jpg "Eddy")
+
 Salut les p'tit clous
-=======
+
 Zerg
 hello homies
 
 Salut les coquines!
->>>>>>> refs/remotes/origin/master
+
 **Coucou** c'est _Rikku_! :)
 
 Yo !!
