@@ -12,9 +12,16 @@ signé, le minotor.
 *Coucou* c'est _Rikku_! :)
 
 
+#######################################################################################
+
+###THE TROOPER :
+
 ![Eddy In England](https://cdn.mos.cms.futurecdn.net/7HBQjAffoqcHSL9mpHxdVP.jpg "Eddy")
 
 
+
+
+#######################################################################################
 
 
 Salut les p'tit clous
