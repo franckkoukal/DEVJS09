@@ -1,8 +1,7 @@
 # DEVJS09
- HEAD
-ok ok 
 
 
+Salut les p'tit clous
 **Coucou** c'est _Rikku_! :)
 
 Yo !!
@@ -24,6 +23,7 @@ hello homies
 
 Salut les coquines!
 
+Et sinon, ?a biche ?
 
 
 
@@ -34,21 +34,21 @@ Blah blah blah blaaaaaah. Pouêt.
 
 
 Et sinon, ?a biche ?
-<<<<<<< HEAD
-refs/remotes/origin/master
-=======
 
 
 
 
-<<<<<<< HEAD
 
  ohhhhhhhhhh
 
 
 
 
->>>>>>> refs/remotes/origin/master
-=======
  ohhhhhhhhhh
->>>>>>> refs/remotes/origin/master
+
+
+
+
+
+
+# L'art du développement en équipe.
